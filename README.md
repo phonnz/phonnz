@@ -10,5 +10,4 @@
 
 [![phonnz's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=phonnz)](https://github.com/phonnz/github-readme-stats)
 
-
-<img src="https://github.com/phonnz/phonnz/blob/master/images/stat.svg" alt="Phonnz Activity"/>
+<img src="https://wakatime.com/share/@phonnz/9ab546f7-805b-4a59-90a4-90b2cc3758f1.svg" alt="Phonnz Activity"/>
