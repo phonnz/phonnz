@@ -8,6 +8,7 @@
 - 📫 Reach me as @phonnz
 - ⚡ Fun fact: I don't know what I'm doing
 
-<img src="https://github.com/phonnz/phonnz/blob/master/images/stat.svg" alt="Phonnz WakaTime Activity"/>
-
 [![phonnz's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=phonnz)](https://github.com/phonnz/github-readme-stats)
+
+
+<img src="https://github.com/phonnz/phonnz/blob/master/images/stat.svg" alt="Phonnz Activity"/>
