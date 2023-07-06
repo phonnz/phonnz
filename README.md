@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Rust, Svelte, and Flutter
 - 👯 I’m looking to collaborate on any interesting project to help people to enter into the software ecosystem
 - 🤔 I’m looking for help with languages, not only programming languages.
-- 💬 Ask me about Elixir, NervesProject, Rust, Functional programming.
+- 💬 Ask me about Elixir, NervesProject, basic Rust, Functional programming.
 - 📫 Reach me as @phonnz
 - ⚡ Fun fact: I don't know what I'm doing, I can google it though
 
