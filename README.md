@@ -1,7 +1,7 @@
 ### In the path of polyglotism
 
 - 🔭 I’m currently working on Distributed Systems and Embedded Software
-- 🌱 I’m currently learning about Rust, Svelte, and Flutter
+- 🌱 I’m currently learning about Rust, clojure, and Flutter
 - 👯 I’m looking to collaborate on any interesting project to help people to enter into the software ecosystem
 - 🤔 I’m looking for help with languages, not only programming languages.
 - 💬 Ask me about Elixir, NervesProject, basic Rust, Functional programming.
