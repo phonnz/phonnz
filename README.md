@@ -1,9 +1,9 @@
 ### In the path of polyglotism
 
-- 🔭 I’m currently working on Distributed Systems and Embedded Software
-- 🌱 I’m currently learning about Rust, clojure, and Flutter
+- 🔭 I’m currently working on Interactive systems powered by AI
+- 🌱 I’m currently learning about Rust, clojure, and LLMs
 - 👯 I’m looking to collaborate on any interesting project to help people to enter into the software ecosystem
-- 🤔 I’m looking for help with languages, not only programming languages.
+- 🤔 I’m looking for help to speak more languages, not only programming languages.
 - 💬 Ask me about Elixir, NervesProject, basic Rust, Functional programming.
 - 📫 Reach me as @phonnz
 - ⚡ Fun fact: I don't know what I'm doing, I can google it though
