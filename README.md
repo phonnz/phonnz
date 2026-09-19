@@ -8,5 +8,5 @@
 - 📫 Reach me as @phonnz
 - ⚡ Fun fact: I don't know what I'm doing, I can prompt it though
 
-<img src="https://wakatime.com/share/@phonnz/9ab546f7-805b-4a59-90a4-90b2cc3758f1.svg" alt="Phonnz Activity" width="250%"/>  &nbsp;  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=phonnz&layout=donut&langs_count=4&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=phonnz&layout=donut&langs_count=4&theme=prussian) &nbsp;
+<img src="https://wakatime.com/share/@phonnz/9ab546f7-805b-4a59-90a4-90b2cc3758f1.svg" alt="Phonnz Activity" width="25%"/>  &nbsp;  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=phonnz&layout=donut&langs_count=4&hide_title=true&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=phonnz&layout=donut&langs_count=4&hide_title=true&theme=prussian) &nbsp;
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=phonnz&hide_rank=true&show_icons=true&include_all_commits=true&theme=cobalt)](https://github-stats-extended.vercel.app/api?username=phonnz&hide_rank=true&show_icons=true&include_all_commits=true&theme=cobalt)
