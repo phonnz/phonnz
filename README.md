@@ -8,4 +8,5 @@
 - 📫 Reach me as @phonnz
 - ⚡ Fun fact: I don't know what I'm doing, I can prompt it though
 
-<img src="https://wakatime.com/share/@phonnz/9ab546f7-805b-4a59-90a4-90b2cc3758f1.svg" alt="Phonnz Activity" width="40%"/>  &nbsp;&nbsp;&nbsp; [![phonnz's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=phonnz&hide_title=true)](https://github.com/phonnz/github-readme-stats)
+<img src="https://wakatime.com/share/@phonnz/9ab546f7-805b-4a59-90a4-90b2cc3758f1.svg" alt="Phonnz Activity" width="40%"/>  &nbsp;&nbsp;&nbsp; 
+[![Phonnz's GitHub stats](https://github-stats-extended.vercel.app/api?username=phonnz)](https://github.com/stats-organization/github-stats-extended)
